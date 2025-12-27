@@ -1,5 +1,3 @@
-# Hireready1
-
 # 📋 Table of Contents
 
 * [About](#-about)
@@ -63,7 +61,7 @@
 
 ### **Additional Tools**
 
-* JWT for authentication
+* Firebase for authentication
 * Bcrypt for password hashing
 * Axios for API calls
 
@@ -180,6 +178,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * [Node.js Documentation](https://nodejs.org/en/docs)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Lucide Icons](https://lucide.dev/)
-
 
 
